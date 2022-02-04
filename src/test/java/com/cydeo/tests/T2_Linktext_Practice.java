@@ -43,6 +43,8 @@ public class T2_Linktext_Practice {
             System.out.println("Title verification FAILED!");
         }
 
+        driver.close();
+
 
 
 

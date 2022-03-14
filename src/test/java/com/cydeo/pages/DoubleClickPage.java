@@ -13,5 +13,4 @@ public class DoubleClickPage {
 
     @FindBy(id = "demo")
     public WebElement textToDoubleClick;
-
 }
